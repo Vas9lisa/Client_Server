@@ -5,8 +5,15 @@ https://itelon.ru/blog/arkhitektura-klient-server/
 +записи
 
 2) Что ткое HTTP и HTTPS
+https://wiki.merionet.ru/servernye-resheniya/85/v-chem-raznica-mezhdu-http-i-https/
+https://proglib.io/p/chto-takoe-http-i-https-2021-03-22
++Записи
 
 3) HTTP методы
+https://zametkinapolyah.ru/servera-i-protokoly/tema-7-opredelenie-metodov-http-http-method-definitions-metody-http-zaprosov.html
+https://translated.turbopages.org/proxy_u/en-ru.ru.aa741bba-62fa5279-11e74af7-74722d776562/https/www.freecodecamp.org/news/http-request-methods-explained/
+https://developer.mozilla.org/ru/docs/Web/HTTP/Methods
++запси
 
 4) HTTP статус коды сервера
 

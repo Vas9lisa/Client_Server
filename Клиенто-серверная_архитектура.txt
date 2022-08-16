@@ -16,6 +16,7 @@ https://developer.mozilla.org/ru/docs/Web/HTTP/Methods
 +запси
 
 4) HTTP статус коды сервера
++записи
 
 5) Что такое ядро браузера 
 
